@@ -1,1 +1,1 @@
-This is first commit from me for testing
+Deleted odl text and added new text

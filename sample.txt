@@ -1,2 +1,4 @@
 This is a sample text file.
 this line is added by srikar.a
+
+This is added via atom
